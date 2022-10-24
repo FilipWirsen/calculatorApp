@@ -4,7 +4,6 @@ C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.AssemblyReference.cache
-C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.Form1.resources
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.GenerateResource.cache
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
 C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
+C:\Users\Filip\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.Calculator.resources

@@ -354,7 +354,8 @@
             this.MinimumSize = new System.Drawing.Size(688, 834);
             this.Name = "Calculator";
             this.Text = "Calculator";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Calculator_Load);
+            this.Resize += new System.EventHandler(this.Calculator_Resize);
             this.ResumeLayout(false);
 
         }
